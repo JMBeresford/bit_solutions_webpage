@@ -17,9 +17,9 @@
           <b-row id="carousels" no-gutters>
             <div>
               <b-carousel id="carouselImg" fade @sliding-start="changeSlide">
-                <b-carousel-slide img-src="../assets/consult.png" />
-                <b-carousel-slide img-src="../assets/web-dev.png" />
-                <b-carousel-slide img-src="../assets/commercial.png" />
+                <b-carousel-slide img-src="../assets/consult.jpg" />
+                <b-carousel-slide img-src="../assets/web-dev.jpg" />
+                <b-carousel-slide img-src="../assets/commercial.jpg" />
               </b-carousel>
             </div>
             <div id="carouselText">
